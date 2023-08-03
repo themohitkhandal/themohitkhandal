@@ -19,6 +19,7 @@ I'm excited about networking and collaborating with like-minded developers and c
 
 ## 📫 Contact:
 - GitHub: - [@themohitkhandal](https://www.github.com/themohitkhandal)
+- LinkedIn: - [@themohitkhandal](https://www.linkedin.com/in/themohitkhandal/)
 - Email: mohit1319khandal@gmail.com
 
 Looking forward to connecting with you and creating something amazing together!
