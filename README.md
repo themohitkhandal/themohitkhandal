@@ -1,4 +1,4 @@
-## 👋 Hello there!
+# 👋 Hello there!
 
 I'm Mohit Khandal, a passionate and versatile developer with expertise in web and mobile technologies. My primary focus is on JavaScript, TypeScript, React JS, React Native, and Swift. I love building elegant and user-centric applications that make a positive impact on people's lives.
 
